@@ -142,18 +142,3 @@ streamlit run app/main.py
 - Implement presigned URLs for secure downloads
 - Add expiry and lifecycle rules on S3
 
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 🙋‍♀️ Maintainer
-
-**Sarah Fitzpatrick**  
-Product Manager – Safety & Compliance Software  
-Contact: sarah@example.com
-
----
